@@ -4,8 +4,7 @@ Esta é a nossa página oficial no GitHub.
 ### O que fazemos:
 - Desenvolvimento de software sob medida.
 - Soluções em PL/SQL e automação.
-### Estatísticas da Organização
-### Estatísticas da Organização
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=CTDOL&show_icons=true&theme=dark&include_all_commits=true)
-### Calendário de Atividades
-![Calendário](https://ghchart.rshah.org/00ff00/CTDOL)
+### Tecnologias que utilizamos:
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
