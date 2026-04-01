@@ -1,4 +1,4 @@
-# Bem-vindos à CTDOL 🚀
+# Bem-vindos ao CTDOL 🚀
 Esta é a nossa página oficial no GitHub. 
 
 ### O que fazemos:
