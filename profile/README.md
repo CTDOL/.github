@@ -4,6 +4,18 @@ Esta é a nossa página oficial no GitHub.
 ### O que fazemos:
 - Desenvolvimento de software sob medida.
 - Soluções em PL/SQL e automação.
+
+# <p align="center">CTDOL - Soluções Tecnológicas</p>
+<p align="center">
+  <a href="https://ctdol.com.br/">
+    <img src="https://img.shields.io/badge/CTDOL--🌐-VISITAR_SITE-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonas-spindler">
+    <img src="https://img.shields.io/badge/LINKEDIN--🔗-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 🛠️ Tecnologias e Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
