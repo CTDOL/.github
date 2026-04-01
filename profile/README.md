@@ -5,4 +5,8 @@ Esta é a nossa página oficial no GitHub.
 - Desenvolvimento de software sob medida.
 - Soluções em PL/SQL e automação.
 ### Estatísticas da Organização
+### Estatísticas da Organização
 ![Stats de CTDOL](https://github-readme-stats.vercel.app/api?username=CTDOL&show_icons=true&theme=dark)
+
+### Calendário de Atividades
+![Calendário](https://ghchart.rshah.org/00ff00/CTDOL)
